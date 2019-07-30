@@ -1,0 +1,9 @@
+温湿度計
+
+参考文献
+git-hub-library
+https://github.com/adafruit/DHT-sensor-library
+XBee Wi-FiでセンサーデータをAWSにアップロードする
+https://qiita.com/satzz/items/c68abf8fb0743b74e807
+ArduinoとAM2302を使って温湿度センサを作る 
+https://quzee.hatenablog.com/entry/2015/03/19/235400
